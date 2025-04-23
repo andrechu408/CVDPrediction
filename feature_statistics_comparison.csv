@@ -1,0 +1,6 @@
+Feature,Cleveland Mean,Cleveland Std,MIMIC Mean,MIMIC Std,Percent Difference
+age,54.44,9.04,34.13,23.98,-37.3%
+sex,0.68,0.47,0.51,0.50,-25.1%
+trestbps,131.69,17.60,134.26,23.44,1.9%
+chol,246.69,51.78,180.13,47.36,-27.0%
+thalach,149.61,22.88,95.56,20.80,-36.1%

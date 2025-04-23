@@ -1,0 +1,6 @@
+Feature,Importance,Direction
+thalach,0.8218857419992487,Negative
+sex,0.804945137277023,Positive
+chol,0.41644979616021993,Positive
+trestbps,0.32581126924015535,Positive
+age,0.2697646736160642,Positive
